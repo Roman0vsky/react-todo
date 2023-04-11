@@ -1,0 +1,23 @@
+.Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Form__input {
+  border: 2px solid rgb(38, 182, 38);
+  color: rgb(38, 182, 38);
+  margin: 5px;
+  width: 300px;
+  height: 30px;
+  font-size: 20px;
+}
+
+.Form__button {
+  border: 2px solid rgb(38, 182, 38);
+  color: rgb(38, 182, 38);
+  margin: 5px;
+  width: 150px;
+  height: 30px;
+  font-size: 20px;
+}
